@@ -1,0 +1,4 @@
+{"ConnectionStrings":{
+		"GCS":  "Data Source=.\\..\\GCSNew.db"
+	}
+}

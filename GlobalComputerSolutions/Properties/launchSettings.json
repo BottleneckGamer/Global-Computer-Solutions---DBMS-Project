@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GlobalComputerSolutions": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "APP_ENVIRONMENT": "Dev"
+      }
+    }
+  }
+}

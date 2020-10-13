@@ -1,0 +1,4 @@
+{"ConnectionStrings":{
+		"GCS":  "Server=.\\JUL;Database=GCSDev;Trusted_Connection=true;"
+	}
+}
